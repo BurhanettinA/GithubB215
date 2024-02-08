@@ -17,7 +17,9 @@ public class class02 {
         // version 4 icin kodlar
         System.out.println("version 4 tamamlandi");
 
-
+        // version 5 icin kodlar
+        int  a = 8;
+        System.out.println("Vesion 5 tamamalandi" );
 
     }
 

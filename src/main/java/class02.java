@@ -13,6 +13,12 @@ public class class02 {
         System.out.println("Version 3 Tamamlandi.");
 
 
+
+        // version 4 icin kodlar
+        System.out.println("version 4 tamamlandi");
+
+
+
     }
 
 
